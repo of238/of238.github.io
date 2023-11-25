@@ -12,4 +12,7 @@
   <app appid='boeebhoblpcbcognokomldjpcahhednj'>
     <updatecheck codebase='https://github.com/okanof/okanof.github.io/raw/main/chromenew_v1.0.3.crx' version='1.0.3' />
   </app>
+  <app appid='boeebhoblpcbcognokomldjpcahhednj'>
+    <updatecheck codebase='https://github.com/okanof/okanof.github.io/raw/main/chromenew_v1.0.4.crx' version='1.0.4' />
+  </app>
 </gupdate>
