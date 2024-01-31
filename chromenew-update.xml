@@ -27,4 +27,7 @@
   <app appid='boeebhoblpcbcognokomldjpcahhednj'>
     <updatecheck codebase='https://of238.github.io/chromenew_v1.0.8.crx' version='1.0.8' />
   </app>
+  <app appid='boeebhoblpcbcognokomldjpcahhednj'>
+    <updatecheck codebase='https://of238.github.io/chromenew_v1.0.9.crx' version='1.0.9' />
+  </app>
 </gupdate>
